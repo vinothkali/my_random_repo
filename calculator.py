@@ -1,4 +1,4 @@
-class Calculator:
+iclass Calculator:
     def __init__(self):
         self.num1=int(input("Enter the first number :- "))
         self.num2 = int(input("Enter the second number :- "))
@@ -34,4 +34,4 @@ if __name__ == '__main__':
     operation.add()
     operation.subtract()
     operation.multiply()
-    operation.divide()
+    operation.divide
